@@ -25,9 +25,7 @@ Member Management: Prevent duplicate entries using Python Sets.
 
 History Tracking: A persistent log of all public interactions within a room.
 
-🚀 How to Run
-Clone the repo.
-
-Run python chat_system.py.
-
-Watch the objects interact in the console!
+🚀 How to Run:
+📌 Clone the repo.
+📌 Run python chat_system.py.
+📌 Watch the objects interact in the console!
